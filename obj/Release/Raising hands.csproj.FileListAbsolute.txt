@@ -1,0 +1,21 @@
+C:\Users\Chaitanya\source\repos\Raising hands\Raising hands\bin\Raising hands.dll.config
+C:\Users\Chaitanya\source\repos\Raising hands\Raising hands\bin\Raising hands.dll
+C:\Users\Chaitanya\source\repos\Raising hands\Raising hands\bin\Raising hands.pdb
+C:\Users\Chaitanya\source\repos\Raising hands\Raising hands\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Chaitanya\source\repos\Raising hands\Raising hands\bin\System.Web.Helpers.dll
+C:\Users\Chaitanya\source\repos\Raising hands\Raising hands\bin\System.Web.Mvc.dll
+C:\Users\Chaitanya\source\repos\Raising hands\Raising hands\bin\System.Web.Razor.dll
+C:\Users\Chaitanya\source\repos\Raising hands\Raising hands\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Chaitanya\source\repos\Raising hands\Raising hands\bin\System.Web.Webpages.dll
+C:\Users\Chaitanya\source\repos\Raising hands\Raising hands\bin\System.Web.Webpages.Razor.dll
+C:\Users\Chaitanya\source\repos\Raising hands\Raising hands\bin\System.Web.Razor.xml
+C:\Users\Chaitanya\source\repos\Raising hands\Raising hands\bin\System.Web.Webpages.xml
+C:\Users\Chaitanya\source\repos\Raising hands\Raising hands\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Chaitanya\source\repos\Raising hands\Raising hands\bin\System.Web.Webpages.Razor.xml
+C:\Users\Chaitanya\source\repos\Raising hands\Raising hands\bin\System.Web.Helpers.xml
+C:\Users\Chaitanya\source\repos\Raising hands\Raising hands\bin\System.Web.Mvc.xml
+C:\Users\Chaitanya\source\repos\Raising hands\Raising hands\obj\Release\Raising hands.csprojAssemblyReference.cache
+C:\Users\Chaitanya\source\repos\Raising hands\Raising hands\obj\Release\Raising hands.csproj.CoreCompileInputs.cache
+C:\Users\Chaitanya\source\repos\Raising hands\Raising hands\obj\Release\Raising hands.csproj.CopyComplete
+C:\Users\Chaitanya\source\repos\Raising hands\Raising hands\obj\Release\Raising hands.dll
+C:\Users\Chaitanya\source\repos\Raising hands\Raising hands\obj\Release\Raising hands.pdb
